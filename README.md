@@ -1,6 +1,8 @@
-# welcome on my ✨profile✨
-this is my personal account with some school repositories
+## Welcome on my ✨profile✨! I'm Giacomo 👋🏻
+📚 Currently attending Computer Science at UniTrento  
+👨🏻‍💻 Skilled in Java, Kotlin, C/C++, .NET, HTML, and JavaScript  
+🌐 Passionate about Web Development  
+🧠 Interested in Data Science and Artificial Intelligence  
+🚧 *This profile is a work in progress!*  
 
-![Metrics](https://metrics.lecoq.io/bertigiacomo?template=classic&introduction=1&isocalendar=1&languages=1&lines=1&followup=1&introduction.title=true&isocalendar.duration=half-year&languages.colors=github&languages.threshold=0%25&config.timezone=Europe%2FRome)
-
-
+[![My Skills](https://skillicons.dev/icons?i=java,kotlin,c,cpp,dotnet,js,html,cloudflare)](https://skillicons.dev)
